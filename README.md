@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @a-mal1k
-- 👀 I’m interested in Coding
+- 👀 I’m passionate about Coding.
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Website development
 - 📫 How to reach me Email me:-  armanalicid@gmail.com
